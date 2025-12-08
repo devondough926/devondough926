@@ -1,6 +1,12 @@
 # Hey there! 👋 I'm Devon
 
+<div align="center">
+  
 Full-stack developer and problem solver. I build applications that create real impact—whether it's data-driven tools, interactive visualizations, or systems that help users work smarter.
+
+</div>
+
+---
 
 ## What I'm About 💻
 
@@ -8,22 +14,35 @@ I'm passionate about **building software that actually matters**. Code that solv
 
 Currently pursuing my **BS in Biology** with a **minor in Computer Science** at the University of Houston (graduating Dec 2025). My unique background gives me an edge in data analysis, scientific computing, and building applications for research-heavy domains, but I'm equally passionate about pure software engineering.
 
+---
+
 ## What I've Built 🚀
 
-**Full-Stack Development:**
-- **Job Tracker Web App** - PostgreSQL-backed application with complex SQL queries, normalized database architecture, REST APIs, and dynamic templating. Handles multi-table JOINs, data filtering, and trend analysis
-- **Room Designer** - Full authentication system with session management, user-specific data storage, and shareable project links. Built with Node.js, Express, and PostgreSQL
-- **NASA Gallery Viewer** - Integrated external APIs for real-time data visualization, implemented asynchronous programming for daily updates, and transformed JSON responses into clean, accessible UI
+### Full-Stack Development
 
-**Low-Level Programming:**
-- **3D Game Engine (Ongoing)** - Building a graphics engine from scratch in C++ using OpenGL. Custom rendering pipeline with VBOs, VAOs, GLSL shaders, real-time lighting, and interactive camera controls. Learning GPU-based rendering, memory management, and modular architecture design
+**🦁 Zoo Management System**  
+Full-stack application with React frontend and Node.js/Express backend. Built comprehensive admin portal managing animals, exhibits, staff, and financial analytics. Features include real-time revenue tracking, employee management with supervisor assignments, image upload handling, and complex relational database queries across multiple entities. MySQL database with normalized schema and transaction management.
 
-**Data & Research Tools:**
-- **Genetic Analysis Pipeline** - Automated data processing workflows using Python and R for statistical analysis, data visualization, and pattern recognition in large datasets
-- **Protein Crystallization Analysis** - Built data analysis tools for experimental research, working with complex datasets and multi-variable optimization
+**🏠 Room Designer**  
+Full authentication system with session management, user-specific data storage, and shareable project links. Built with Node.js, Express, and PostgreSQL.
 
-**Hackathon Experience:**
-- Led database development at UH hackathon in Agile team environment, implementing secure storage, optimized queries, and real-time data manipulation
+**🚀 [NASA Gallery Viewer](https://github.com/devondough926/NASA-viewer)**  
+Integrated external APIs for real-time data visualization, implemented asynchronous programming for daily updates, and transformed JSON responses into clean, accessible UI.
+
+### Data & Research Tools
+
+**🧬 Genetic Analysis Pipeline**  
+Automated data processing workflows using Python and R for statistical analysis, data visualization, and pattern recognition in large datasets.
+
+**🔬 Protein Crystallization Analysis**  
+Built data analysis tools for experimental research, working with complex datasets and multi-variable optimization.
+
+### Hackathon Experience
+
+**💻 UH Hackathon**  
+Led database development in Agile team environment, implementing secure storage, optimized queries, and real-time data manipulation.
+
+---
 
 ## Tech Stack 🛠️
 
@@ -33,9 +52,12 @@ Currently pursuing my **BS in Biology** with a **minor in Computer Science** at 
 **Tools & Practices:** Git/GitHub, Linux, OpenGL, Agile development, database design, API integration, version control  
 **Currently Learning:** Advanced graphics programming, distributed systems, cloud architecture (Azure)
 
+---
+
 ## What Drives Me 🎯
 
 I'm drawn to projects that involve **complex problem-solving**, whether that's optimizing database queries, building rendering pipelines, or architecting scalable systems. I especially love:
+
 - Working with **data at scale** and making it meaningful
 - **Low-level programming** and understanding how things work under the hood
 - **Full-stack challenges** that require thinking about the entire system
@@ -45,6 +67,50 @@ Always looking for opportunities to grow as a developer and work on challenging 
 
 ---
 
-📍 Houston, TX  
-📫 devon.do0926@gmail.com  
-💼 Open to SWE internships and full-time opportunities  
+## Beyond the Code 🎯
+
+<div align="center">
+
+When I'm not building software, you'll find me:
+
+<table>
+<tr>
+<td width="50%" align="center">
+  
+### 🕺 Dancing
+  
+<img src="./dancing.jpeg" alt="Dancing performance" width="400"/>
+
+*On the dance floor picking up new moves*
+
+</td>
+<td width="50%" align="center">
+  
+### 🧗 Rock Climbing
+  
+<img src="./climbing.png" alt="Rock climbing" width="400"/>
+
+*On the climbing wall working through challenging routes*
+
+</td>
+</tr>
+</table>
+
+Both have taught me a lot about **problem-solving**, **persistence**, and the **value of practice**—skills that translate directly to writing better code.
+
+</div>
+
+---
+
+<div align="center">
+
+### Let's Connect! 🤝
+
+📍 **Houston, TX**  
+📫 **devon.do0926@gmail.com**  
+💻 **[github.com/devondough926](https://github.com/devondough926)**  
+
+💼 **Open to SWE internships and full-time opportunities**  
+🚀 **Building things that matter, one commit at a time**
+
+</div>
