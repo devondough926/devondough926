@@ -20,10 +20,10 @@ Currently pursuing my **BS in Biology** with a **minor in Computer Science** at 
 
 ### Full-Stack Development
 
-**🦁 Zoo Management System**  
+**🦁 [Zoo Management System](https://purple-bush-05566fa10.3.azurestaticapps.net)**  
 Full-stack application with React frontend and Node.js/Express backend. Built comprehensive admin portal managing animals, exhibits, staff, and financial analytics. Features include real-time revenue tracking, employee management with supervisor assignments, image upload handling, and complex relational database queries across multiple entities. MySQL database with normalized schema and transaction management.
 
-**🏠 Room Designer**  
+**🏠 [Room Designer](https://room-designer.onrender.com)**  
 Full authentication system with session management, user-specific data storage, and shareable project links. Built with Node.js, Express, and PostgreSQL.
 
 **🚀 [NASA Gallery Viewer](https://github.com/devondough926/NASA-viewer)**  
