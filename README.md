@@ -81,8 +81,6 @@ When I'm not building software, you'll find me:
   
 <img src="./dancing.jpeg" alt="Dancing performance" width="400"/>
 
-*On the dance floor picking up new moves*
-
 </td>
 <td width="50%" align="center">
   
@@ -90,13 +88,12 @@ When I'm not building software, you'll find me:
   
 <img src="./climbing.png" alt="Rock climbing" width="400"/>
 
-*On the climbing wall working through challenging routes*
+*On the climbing wall (kind of)*
 
 </td>
 </tr>
 </table>
 
-Both have taught me a lot about **problem-solving**, **persistence**, and the **value of practice**—skills that translate directly to writing better code.
 
 </div>
 
@@ -111,6 +108,6 @@ Both have taught me a lot about **problem-solving**, **persistence**, and the **
 💻 **[github.com/devondough926](https://github.com/devondough926)**  
 
 💼 **Open to SWE internships and full-time opportunities**  
-🚀 **Building things that matter, one commit at a time**
+
 
 </div>
