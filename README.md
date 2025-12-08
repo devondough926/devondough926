@@ -48,4 +48,3 @@ Always looking for opportunities to grow as a developer and work on challenging 
 📍 Houston, TX  
 📫 devon.do0926@gmail.com  
 💼 Open to SWE internships and full-time opportunities  
-🚀 Building things that matter, one commit at a time
