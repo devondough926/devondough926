@@ -2,7 +2,7 @@
 
 <div align="center">
   
-Full-stack developer and problem solver. I build applications that create real impact—whether it's data-driven tools, interactive visualizations, or systems that help users work smarter.
+Full-stack developer and problem solver. I build applications that create real impact, whether it's data-driven tools, interactive visualizations, or systems that help users work smarter.
 
 </div>
 
@@ -63,7 +63,7 @@ I'm drawn to projects that involve **complex problem-solving**, whether that's o
 - **Full-stack challenges** that require thinking about the entire system
 - Building tools that genuinely improve how people work
 
-Always looking for opportunities to grow as a developer and work on challenging problems. Open to collaborating on interesting projects—especially anything involving graphics, data visualization, or systems that need to handle complex information.
+Always looking for opportunities to grow as a developer and work on challenging problems. Open to collaborating on interesting projects, especially anything involving data visualization or systems that need to handle complex information.
 
 ---
 
@@ -105,7 +105,7 @@ When I'm not building software, you'll find me:
 
 📍 **Houston, TX**  
 📫 **devon.do0926@gmail.com**  
-💻 **[github.com/devondough926](https://github.com/devondough926)**  
+💻 **[linkedin.com/in/devonldo/](https://www.linkedin.com/in/devonldo/)**  
 
 💼 **Open to SWE internships and full-time opportunities**  
 
