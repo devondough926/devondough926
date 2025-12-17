@@ -10,7 +10,7 @@ Full-stack developer and problem solver. I build applications that create real i
 
 ## What I'm About 💻
 
-I'm passionate about **building software that actually matters**. Code that solves real problems, handles complex data, and creates genuine value for users. I love tackling challenges that require both technical depth and creative thinking—from low-level graphics programming to full-stack web development.
+I'm passionate about **building software that actually matters**. Code that solves real problems, handles complex data, and creates genuine value for users. I love tackling challenges that require both technical depth and creative thinking, from low-level graphics programming to full-stack web development.
 
 Currently pursuing my **BS in Biology** with a **minor in Computer Science** at the University of Houston (graduating Dec 2025). My unique background gives me an edge in data analysis, scientific computing, and building applications for research-heavy domains, but I'm equally passionate about pure software engineering.
 
